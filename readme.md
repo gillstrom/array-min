@@ -1,6 +1,6 @@
 # array-min [![Build Status](https://travis-ci.org/gillstrom/array-min.svg?branch=master)](https://travis-ci.org/gillstrom/array-min)
 
-> Get the smallets value in an array of numbers
+> Get the smallest value in an array of numbers
 
 
 ## Install
