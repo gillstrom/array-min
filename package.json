@@ -1,0 +1,38 @@
+{
+  "name": "array-min",
+  "version": "0.0.0",
+  "description": "Get the smallets value in an array of numbers",
+  "license": "MIT",
+  "repository": "gillstrom/array-min",
+  "author": {
+    "name": "Andreas Gillström",
+    "email": "andreasgillstrom@gmail.com",
+    "url": "github.com/gillstrom"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "array",
+    "lowest",
+    "math",
+    "min",
+    "minimum",
+    "number",
+    "smallest",
+    "value"
+  ],
+  "dependencies": {
+    "number-is-integer": "^1.0.0"
+  },
+  "devDependencies": {
+    "ava": "*",
+    "xo": "*"
+  }
+}
