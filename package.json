@@ -1,7 +1,7 @@
 {
   "name": "array-min",
   "version": "1.0.0",
-  "description": "Get the smallets value in an array of numbers",
+  "description": "Get the smallest value in an array of numbers",
   "license": "MIT",
   "repository": "gillstrom/array-min",
   "author": {
