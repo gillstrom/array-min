@@ -19,6 +19,7 @@
     "index.js"
   ],
   "keywords": [
+    "arr",
     "array",
     "lowest",
     "math",
@@ -28,9 +29,6 @@
     "smallest",
     "value"
   ],
-  "dependencies": {
-    "number-is-integer": "^1.0.0"
-  },
   "devDependencies": {
     "ava": "*",
     "xo": "*"
